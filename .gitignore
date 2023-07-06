@@ -1,0 +1,5 @@
+build/
+tmp/
+Library/
+logs/
+*.log
