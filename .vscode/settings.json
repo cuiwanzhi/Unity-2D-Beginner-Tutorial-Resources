@@ -55,6 +55,8 @@
         "Temp/":true
     },
     "cSpell.words": [
-        "Postion"
-    ]
+		"Postion",
+		"Raycast"
+	],
+	"dotnet.defaultSolution": "2D Beginner Tutorial Resources.sln"
 }

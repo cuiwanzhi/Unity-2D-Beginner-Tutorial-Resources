@@ -4,12 +4,13 @@
     // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        {
-            "name": "Unity Editor",
-            "type": "unity",
-            "path": "/f:/UnityProjects/Projects/2D Beginner Tutorial Resources/Library/EditorInstance.json",
-            "request": "launch"
-        },
+		{
+			"name": "Unity Editor",
+			"type": "unity",
+			"request": "launch",
+			"path": "/f:/UnityProjects/Projects/2D Beginner Tutorial Resources/Library/EditorInstance.json",
+			"endPoint": "127.0.0.1:56321"
+		},
         {
             "name": "Windows Player",
             "type": "unity",
